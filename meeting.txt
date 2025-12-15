@@ -1,0 +1,49 @@
+[09:00 AM] John (Project Manager): Good morning, everyone. Let's begin today's sprint planning meeting. First, we'll review last week's progress.
+
+[09:02 AM] Priya (Developer): We completed the authentication module, except for the Google OAuth integration which is pending testing.
+
+[09:04 AM] Ahmed (QA Lead): Yes, and we found two minor bugs in the password reset flow. Both have been assigned to Priya.
+
+[09:06 AM] Priya (Developer): I'll fix those by EOD today.
+
+[09:08 AM] John (Project Manager): Great. Next, let's discuss the dashboard redesign. The client wants a cleaner UI and more emphasis on analytics.
+
+[09:10 AM] Sarah (UI/UX Designer): I shared the wireframes yesterday. Did everyone get a chance to review them?
+
+[09:12 AM] Mark (Data Analyst): Yes, they look good. But the real-time analytics widget may need backend support for faster data refresh rates.
+
+[09:14 AM] John: Exactly, which means the backend team needs to prioritize the new data pipeline improvements.
+
+[09:16 AM] Priya: I can take the API side, but I'll need clarity on which metrics should update in real-time.
+
+[09:18 AM] Mark: Mainly user session count, conversion rate, and retention metrics.
+
+[09:20 AM] Sarah: I’ll update the wireframes to reflect the changes Mark mentioned.
+
+[09:22 AM] John: Perfect. Next agenda — Timeline. We are currently behind schedule by 3 days. Can we realistically meet the deadline if we finalize everything by Friday?
+
+[09:24 AM] Priya: If Ahmed completes the testing early and gives us reports by Thursday, we can meet the deadline.
+
+[09:26 AM] Ahmed: I can deliver testing reports by Thursday noon.
+
+[09:27 AM] John: Great, then Friday remains the final target for dashboard completion.
+
+[09:30 AM] Sarah: Anything related to user onboarding flows?
+
+[09:31 AM] John: Yes, thanks for reminding. The client requested a shorter onboarding flow. We need to propose a revised structure.
+
+[09:32 AM] Sarah: I’ll create two options and send them for review by tomorrow.
+
+[09:34 AM] Mark: We should also track onboarding drop-off rates in the analytics dashboard.
+
+[09:35 AM] John: Good point. Let's include that in this sprint.
+
+[09:37 AM] John: Before we wrap up, any blockers?
+
+[09:38 AM] Priya: None from my side.
+
+[09:39 AM] Ahmed: Only one — I still need test data for the analytics widget.
+
+[09:40 AM] Mark: I’ll generate the test dataset and share it today evening.
+
+[09:42 AM] John: Perfect. Then that’s all for today. Thanks everyone!
